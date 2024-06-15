@@ -15,7 +15,7 @@ Performance of the strategies based on RSI, MACD and Fair Value Gap indicators a
 The relative strength index (RSI) is a momentum indicator used in technical analysis. RSI measures the speed and magnitude of a security's recent price changes to evaluate overvalued or undervalued conditions in the price of that security. ([Investopedia](https://www.investopedia.com/terms/r/rsi.asp))
 
 ### RSI level trading
-Over-bought and over-sold markets are two states derived from RSI indicator reaching above 70% or below 30%, respectively. These are signals for 
+Over-bought and over-sold markets are two states derived from RSI indicator reaching above 70% or below 30%, respectively. These are signals for potential signals for trend reversal and SHORT and LONG entry, respectively.
 
 ![RSI Level trading](https://github.com/saidplayer/ForexTradingStrategies/assets/85461502/a0ce5729-1c74-40bd-8e53-85ce6e9eb52e)
 
@@ -25,4 +25,19 @@ This is a famous momentum trading indicator. The strong one indicator signals a 
 
 ![RSI divergence](https://github.com/saidplayer/ForexTradingStrategies/assets/85461502/6aafe9a8-d315-4d4c-b1ab-d52879a919d5)
 
+## MACD indicator
+### Definition
+Moving average convergence/divergence (MACD) is a technical indicator to help investors identify price trends, measure trend momentum, and identify market entry points for buying or selling. Moving average convergence/divergence (MACD) is a trend-following momentum indicator that shows the relationship between two exponential moving averages (EMAs) of a security’s price. MACD was developed in the 1970s by Gerald Appel. ([Investopedia](https://www.investopedia.com/terms/m/macd.asp))
 
+### MACD Crossover
+MACD has two moving averages, called MACD and Signal. MACD crossing over the Signal line, signals a LONG entry point. The opposite, would be a SHORT entry signal.
+
+![image](https://github.com/saidplayer/ForexTradingStrategies/assets/85461502/7f77cfc8-a9bc-49d0-9339-42674d32189b)
+
+### MACD Divergence
+This is almost similar to the RSI divergence case, as in the figure below. MACD and RSI divergence occuring at the same time, is known as a strong trend reversal and entry signal by some.
+
+![image](https://github.com/saidplayer/ForexTradingStrategies/assets/85461502/96e063d1-73a5-47f4-90c9-7225ca7f4f78)
+
+## Fair Value Gap
+This trading signal is based on the belief that: when price experiences a large gap starting a new trend, it will soon return and fill the gap, and then continue the initiated trend with a stronger momentum.
