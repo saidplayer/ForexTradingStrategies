@@ -8,8 +8,7 @@
 #property               version           "1.00"
 #property               strict
 
-
-// Settings:
+// Settings
 input int               x1                   = 0; //-------------Trade settings--------------
 input int               MaxOpenTrades        = 2; // RSI Shift
 input double            LotSize              = 0.1; // Min RSI change to consider  (%)
