@@ -1,1 +1,3 @@
-This is the readme.
+#Forex Trading Strategies
+
+##RSI divergence
