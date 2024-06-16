@@ -5,9 +5,10 @@ In this repository I put the Forex trading codes in MQL4. The language is based 
 
 Performance of the strategies based on RSI, MACD and Fair Value Gap indicators are explained and tested in the following:
 
-1) [RSI and MACD combination](https://drsoli.com/index.php/2023/04/22/forex-01-diversification-with-rsi-and-macd-mql4-metatrader/)
+1) [**RSI and MACD combination**](https://drsoli.com/index.php/2023/04/22/forex-01-diversification-with-rsi-and-macd-mql4-metatrader/)
 
-2) My YouTube video on coding and back testing Fair Value Gap, and combining it with RSI and MACD.
+2) [**My YouTube video**](https://www.youtube.com/watch?v=1w5A0cl3uMk) on coding and back testing Fair Value Gap, and combining it with RSI and MACD.
+<p>&nbsp;</p>
 [![coding and backtesting Fair Value Gap with MQL4 MetaTrader](https://i.ytimg.com/vi/1w5A0cl3uMk/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYACugWKAgwIABABGHIgOig_MA8=&rs=AOn4CLBnINcbvhLHzy_WnXvoUhs_7XAqvA)](https://www.youtube.com/watch?v=1w5A0cl3uMk)
 
 ## RSI indicator
