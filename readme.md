@@ -13,6 +13,8 @@ Performance of the strategies based on RSI, MACD and Fair Value Gap indicators a
 
 [![coding and backtesting Fair Value Gap with MQL4 MetaTrader](https://i.ytimg.com/vi/1w5A0cl3uMk/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-CYACugWKAgwIABABGHIgOig_MA8=&rs=AOn4CLBnINcbvhLHzy_WnXvoUhs_7XAqvA)](https://www.youtube.com/watch?v=1w5A0cl3uMk)
 
+<p>&nbsp;</p>
+
 ## RSI indicator
 ### Definition
 The relative strength index (RSI) is a momentum indicator used in technical analysis. RSI measures the speed and magnitude of a security's recent price changes to evaluate overvalued or undervalued conditions in the price of that security. ([Investopedia](https://www.investopedia.com/terms/r/rsi.asp))
@@ -28,6 +30,8 @@ This is a famous momentum trading indicator. The strong one indicator signals a 
 
 ![RSI divergence](https://github.com/saidplayer/ForexTradingStrategies/assets/85461502/6aafe9a8-d315-4d4c-b1ab-d52879a919d5)
 
+<p>&nbsp;</p>
+
 ## MACD indicator
 ### Definition
 Moving average convergence/divergence (MACD) is a technical indicator to help investors identify price trends, measure trend momentum, and identify market entry points for buying or selling. Moving average convergence/divergence (MACD) is a trend-following momentum indicator that shows the relationship between two exponential moving averages (EMAs) of a security’s price. MACD was developed in the 1970s by Gerald Appel. ([Investopedia](https://www.investopedia.com/terms/m/macd.asp))
@@ -42,5 +46,11 @@ This is almost similar to the RSI divergence case, as in the figure below. MACD 
 
 ![image](https://github.com/saidplayer/ForexTradingStrategies/assets/85461502/96e063d1-73a5-47f4-90c9-7225ca7f4f78)
 
+<p>&nbsp;</p>
+
 ## Fair Value Gap
 This trading signal is based on the belief that: when price experiences a large gap starting a new trend, it will soon return and fill the gap, and then continue the initiated trend with a stronger momentum.
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
